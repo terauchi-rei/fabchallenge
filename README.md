@@ -1,3 +1,4 @@
-# fabchallenge
+*1st Challenge Feb.15-18**
+===============
 
-aaa
+by [Rei Terauchi](https://terauchi-rei.github.io/mdefweb/) & Emilio Smith
